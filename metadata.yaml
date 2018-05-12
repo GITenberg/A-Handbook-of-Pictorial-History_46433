@@ -1,0 +1,27 @@
+_repo: A-Handbook-of-Pictorial-History_46433
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46433-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Donald, Henry W.
+    gutenberg_agent_id: '43783'
+    url: http://www.gutenberg.org/2009/agents/43783
+description: ''
+gutenberg_issued: '2014-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History'
+- !lcc 'GT'
+- !lcsh 'Costume -- Great Britain -- History'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Pictorial works'
+title: A Handbook of Pictorial History
+url: http://www.gutenberg.org/ebooks/46433
